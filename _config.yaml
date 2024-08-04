@@ -77,16 +77,6 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-  giscus:
-    repo: mw1296/kirawei.github.io
-    repo_id: kirawei.github.io
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
-
-
 pwa:
   enabled: true # The option for PWA feature (installable)
   cache:

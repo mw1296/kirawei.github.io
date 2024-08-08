@@ -1,6 +1,6 @@
-title: Kira Wei Data Science And Analytics Portfolio
+title: "Kira Wei's Data Science And Analytics Portfolio"
 description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0

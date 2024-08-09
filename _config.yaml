@@ -1,26 +1,4 @@
 title: "Kira Wei's Data Science And Analytics Portfolio"
 description: "Kira Wei: Data Scientist | Pricing Optimization Professional | Business Analyst | Travel Industry | Grocery Retail Industry"
 show_downloads: false
-google_analytics:
 theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman@v0.2.0
-
-url: "https://mw1296.github.io/kirawei.github.io/" # change this to the base hostname & protocol for your site
-
-
-google_analytics:
-
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-theme: # leave it empty
-
-plugins:
-  - jekyll-target-blank
-
-target-blank:
-    rel: nofollow
-
-header_page_refs: ['now', 'about', 'contact']

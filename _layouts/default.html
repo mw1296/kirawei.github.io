@@ -31,7 +31,6 @@
     {% if site.plugins contains "jekyll-seo-tag" %}
     <!-- jekyll-seo-tag -->
     {% else %}
-    {% include social-metatags.html %}
     {% endif %}
     
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
